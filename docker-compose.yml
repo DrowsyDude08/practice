@@ -6,4 +6,4 @@ services:
       - "1337:1337"
     restart: unless-stopped
     environment:
-      FLAG: "practice{command_injection_success}"
+      FLAG: "practice{command_injection_success}"  
